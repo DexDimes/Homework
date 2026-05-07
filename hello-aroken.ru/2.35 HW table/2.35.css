@@ -1,0 +1,19 @@
+table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+	font-family: sans-serif;
+}
+caption {
+	border: 1px solid #000;
+	font-weight: 800;
+	border-bottom: none;
+}
+td,
+th {
+	border: 1px solid #000;
+	padding: 3px 6px 3px 3px;
+}
+
+.weekend {
+	color: red;
+}
