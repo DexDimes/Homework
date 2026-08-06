@@ -9,7 +9,7 @@ body {
 	min-height: 4vw;
 	padding: 0 15px;
 	margin: 20px auto;
-	border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+	border-bottom: 2px solid rgba(128, 128, 128, 0.4);
 }
 .flex-container-header {
 	display: flex;
